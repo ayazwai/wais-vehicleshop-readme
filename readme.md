@@ -2,7 +2,6 @@
 
 - You should read the sql file in the script to the database you use via **phpmyadmin** or **heidisql** 
 
-- 
 
 ## Important for ESX!
 
