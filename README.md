@@ -24,6 +24,10 @@ wais-vehicleshop\nui
 
 ---
 
+- If you restart the script while on the server, the script will not run if `Config.Devmode` is off.`
+
+- If you give yourself the in-game authorisation of the created shop, you will not be able to access the bos menu. Only those who bought the shop or were hired to the shop as an employee can view it
+
 ## *Config.Devmode*
 
 - Use it only when you want to restart the script. Use when there is maintenance on the server. If it is normally open, the script will not run.
